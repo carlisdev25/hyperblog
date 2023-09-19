@@ -1,3 +1,5 @@
 historia
 
-hola soy yo
+hola soy yo Carla Tatiana Valderrama Garzon
+
+y estoy aprendiendo GIT. 
