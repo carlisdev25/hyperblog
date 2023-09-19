@@ -1,7 +1,5 @@
 historia
 
-hola soy yo Carla Tatiana Valderrama Garzon
+hola soy yo
 
-y estoy aprendiendo GIT. 
-
-Vamos a hablar de su vida y de su carrera
+Mañana nos enfocaremos en su vida laboral
